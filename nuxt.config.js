@@ -1,6 +1,6 @@
 import { defineNuxtConfig } from '@nuxt/bridge'
 
-const name = 'Cathy Johnson'
+const name = 'Catharine Jane Fanning Johnson'
 const dates = 'June 19th 1946 - December 13, 2024'
 
 export default defineNuxtConfig ({
