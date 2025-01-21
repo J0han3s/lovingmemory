@@ -5,9 +5,9 @@
     </div>
     <div class="section tribute">
       <!-- CONTENT START -->
-      <h1 class="title">In Loving Memory(TEST)</h1>
+      <h1 class="title">In Loving Memory</h1>
       <img height="292" src="~/assets/frontimage.jpg" alt="In loving memory" />
-      <div class="subtitle"><div class="name">{{ $config.name }}</div>{{ $config.dates }}</div>
+      <div class="subtitle"><div class="name">{{ $config.name }}{{ $config.dates }}</div>
       <!-- CONTENT END -->
     </div>
   </div>
