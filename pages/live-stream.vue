@@ -6,18 +6,11 @@
     <div class="section details">
       <!-- CONTENT START -->
       <h1 class="title">Service Livestream</h1>
-      <p>As attendance is restricted due to COVID-19 we hope that you will join us virtually. The services will be held on <em>Thursday January 28th 2021</em>, first at Church address then at Crematorium address.</p>
-      <h2>Church Service</h2>
-      <p>The church service is being performed at Church address
+      <p>For all those who can't attend the services in person, you can watch a livestream of the services from the Church's livestream below</p>
+      <p>
+      <p>The livestream is expected to start 15 minutes before the service begins.
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="">Livestream - 10:30am</a>
-      <h2>Crematorium</h2>
-      <p>The service is being held at Crematorium address</p>
-      <a class="button" target="_blank" rel=”noopener” href="">Livestream - 12:00pm</a>
-      <ul class="fa-ul">
-        <ListItem>Username: <span class="highlight">test123</span> <CopyButton text="test123"></CopyButton></ListItem>
-        <ListItem>Password: <span class="highlight">password123</span> <CopyButton text="password123"></CopyButton></ListItem>
-      </ul>
+      <a class="button" target="_blank" rel=”noopener” href="">Livestream - 11:00am</a>
       <!-- CONTENT END -->
     </div>
   </div>
