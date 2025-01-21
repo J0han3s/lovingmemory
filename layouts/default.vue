@@ -263,7 +263,7 @@ ul {
   }
 }
 .name {
-  font-size: 40px;
+  font-size: 80px;
   color: #fff;
   font-weight: 300;
 }
