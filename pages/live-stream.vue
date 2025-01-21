@@ -10,7 +10,7 @@
       <p>
       <p>The livestream is expected to start 15 minutes before the service begins.
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="cathy.cpjconsult.com">Livestream - 11:00am</a>
+      <a class="button" target="_blank" rel=”noopener” href="https://cathy.cpjconsult.com">Livestream - 11:00am</a>
       <!-- CONTENT END -->
     </div>
   </div>
