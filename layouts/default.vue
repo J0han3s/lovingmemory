@@ -263,9 +263,14 @@ ul {
   }
 }
 .name {
-  font-size: 80px;
+  font-size: 40px;
   color: #fff;
   font-weight: 300;
+}
+.date {
+  font-size: 100px;
+  color: #fff;
+  font-weight: 150;
 }
 .title {
   font-family: 'Pinyon Script', cursive;
