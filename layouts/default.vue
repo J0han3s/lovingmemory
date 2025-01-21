@@ -270,7 +270,7 @@ ul {
 .dates {
   font-size: 20px;
   color: #fff;
-  font-weight: 150;
+  font-weight: 300;
 }
 .title {
   font-family: 'Pinyon Script', cursive;
