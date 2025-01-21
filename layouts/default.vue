@@ -268,7 +268,7 @@ ul {
   font-weight: 300;
 }
 .dates {
-  font-size: 20px;
+  font-size: 40px;
   color: #fff;
   font-weight: 150;
 }
