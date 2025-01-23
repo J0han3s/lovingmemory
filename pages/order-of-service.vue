@@ -5,7 +5,7 @@
     </div>
     <div class="section details">
       <!-- CONTENT START -->
-      <h1 class="title">Order of servicea</h1>
+      <h1 class="title">Order of Service</h1>
       <p><em>Monday, January 27, 2025</em> will be held at Saint Joseph Marella Catholic Church, 7200 Auburn Folsom Road, Granite Bay Ca.</p>
       <p class="highlight">The service will be livestreamed via Youtube on the Churchs website. Please see Livestream link.</p>
       <h2>Church Service <span>11:00am</span></h2>
