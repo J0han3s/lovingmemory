@@ -18,7 +18,7 @@
       </ul>
       <h2>Reception<span>immediately after service</span></h2>
       <ul class="fa-ul">
-        <ListItem>Slideshow</ListItem>
+        <ListItem>Slideshow (will be shared on this site after the celebration of life)</ListItem>
         <ListItem>Share stories with Cathy's friends and family</ListItem>
         <ListItem>Light refreshments</ListItem>
       </ul>
