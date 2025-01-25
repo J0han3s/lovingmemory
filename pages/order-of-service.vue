@@ -16,7 +16,7 @@
         <ListItem>Procession: Altar server, 4th Degree Honor Guard, Clergy</ListItem>
         <ListItem>Eulogy: Family and CHI Representative</ListItem>
       </ul>
-      <h2>Reception <span>immediately after service</span></h2>
+      <h2>Reception<span>immediately after service</span></h2>
       <ul class="fa-ul">
         <ListItem>Slideshow</ListItem>
         <ListItem>Share stories with Cathy's friends and family</ListItem>
