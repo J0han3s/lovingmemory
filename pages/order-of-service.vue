@@ -11,10 +11,10 @@
       <h2>Church Service <span>11:00am</span></h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 11:00am please plan to arrive 15 minutes early</ListItem>
-        <ListItem>Entrance music: ???</ListItem>
         <ListItem>Welcome: Carl Johsnon</ListItem>
-        <ListItem>Procession</ListItem>
-        <ListItem>Opening Prayer</ListItem>
+        <ListItem>Clergy Presider: Pastor Father Brian Crawford, Deacon Jeff McClure</ListItem>
+        <ListItem>Procession: Altar server, 4th Degree Honor Guard, Clergy/ListItem>
+        <ListItem>Eulogy: Family and CHI Representative</ListItem>
       </ul>
       <h2>Reception <span>immediately after service</span></h2>
       <ul class="fa-ul">
