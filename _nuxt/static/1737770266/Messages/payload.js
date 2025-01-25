@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/Messages", {data:[{}],fetch:{},mutations:void 0});
