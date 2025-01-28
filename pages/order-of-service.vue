@@ -7,7 +7,7 @@
       <!-- CONTENT START -->
       <h1 class="title">Order of Service</h1>
       <p><em>Monday, January 27, 2025</em> will be held at Saint Joseph Marella Catholic Church, 7200 Auburn Folsom Road, Granite Bay, CA.</p>
-      <p class="highlight">The service will be livestreamed via Youtube on the Church's website. Please see Livestream link in the menu.</p>
+      <p class="highlight">The service was livestreamed via Youtube on the Church's website. Please see Livestream link in the menu to view a playback of the services.</p>
       <h2>Church Service <span>11:00am</span></h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 11:00am please plan to arrive 15 minutes early</ListItem>
