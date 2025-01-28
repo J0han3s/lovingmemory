@@ -19,6 +19,7 @@
       <h2>Reception<span>immediately after service</span></h2>
       <ul class="fa-ul">
         <ListItem>Slideshow (will be shared on this site after the celebration of life)</ListItem>
+        <a class="button" target="_blank" rel=”noopener” href="https://photos.app.goo.gl/ZHCELzhU3fY5M9tX7">Slideshow</a>
         <ListItem>Share stories with Cathy's friends and family</ListItem>
         <ListItem>Light refreshments</ListItem>
       </ul>
