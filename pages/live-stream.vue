@@ -6,9 +6,7 @@
     <div class="section details">
       <!-- CONTENT START -->
       <h1 class="title">Service Livestream</h1>
-      <p>For all those who can't attend the services in person, you can watch a livestream of the services from the Church's livestream below.</p>
-      <p>
-      <p>The livestream is expected to start 15 minutes before the service begins.
+      <p>Below is a replay of the funeral serivce.
       </p>
       <a class="button" target="_blank" rel=”noopener” href="https://youtu.be/9VwT-rJKbK4">Funeral Services Replay</a>
       <!-- CONTENT END -->
