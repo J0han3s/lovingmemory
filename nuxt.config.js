@@ -1,7 +1,7 @@
 import { defineNuxtConfig } from '@nuxt/bridge'
 
-const name = 'Catharine Jane Fanning Johnson'
-const dates = 'June 19, 1946 - December 13, 2024'
+const name = 'Gibson Chimuzinga'
+const dates = '30 Jan 1937 - 24 Jul 2025'
 
 export default defineNuxtConfig ({
   bridge: false,
